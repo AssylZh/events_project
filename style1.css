@@ -1,0 +1,39 @@
+* {box-sizing: border-box}
+
+.container {
+  padding: 16px;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 17px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+.registerbtn {
+  background-color: lightcoral;
+  color: white;
+  padding: 17px;
+  margin: 5px 0 22px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+
+a {
+  color: lightskyblue;
+}
+
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
